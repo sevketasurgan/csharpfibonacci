@@ -1,0 +1,13 @@
+C:\Users\Sevket\Desktop\Files And Folders\fibonaci\bin\Debug\netcoreapp3.1\fibonaci.exe
+C:\Users\Sevket\Desktop\Files And Folders\fibonaci\bin\Debug\netcoreapp3.1\fibonaci.deps.json
+C:\Users\Sevket\Desktop\Files And Folders\fibonaci\bin\Debug\netcoreapp3.1\fibonaci.runtimeconfig.json
+C:\Users\Sevket\Desktop\Files And Folders\fibonaci\bin\Debug\netcoreapp3.1\fibonaci.runtimeconfig.dev.json
+C:\Users\Sevket\Desktop\Files And Folders\fibonaci\bin\Debug\netcoreapp3.1\fibonaci.dll
+C:\Users\Sevket\Desktop\Files And Folders\fibonaci\bin\Debug\netcoreapp3.1\fibonaci.pdb
+C:\Users\Sevket\Desktop\Files And Folders\fibonaci\obj\Debug\netcoreapp3.1\fibonaci.csprojAssemblyReference.cache
+C:\Users\Sevket\Desktop\Files And Folders\fibonaci\obj\Debug\netcoreapp3.1\fibonaci.AssemblyInfoInputs.cache
+C:\Users\Sevket\Desktop\Files And Folders\fibonaci\obj\Debug\netcoreapp3.1\fibonaci.AssemblyInfo.cs
+C:\Users\Sevket\Desktop\Files And Folders\fibonaci\obj\Debug\netcoreapp3.1\fibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Sevket\Desktop\Files And Folders\fibonaci\obj\Debug\netcoreapp3.1\fibonaci.dll
+C:\Users\Sevket\Desktop\Files And Folders\fibonaci\obj\Debug\netcoreapp3.1\fibonaci.pdb
+C:\Users\Sevket\Desktop\Files And Folders\fibonaci\obj\Debug\netcoreapp3.1\fibonaci.genruntimeconfig.cache
